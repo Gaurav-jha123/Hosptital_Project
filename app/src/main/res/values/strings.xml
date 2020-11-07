@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hosptital_Project</string>
+    <string name="create_new">Create New</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="enter_your_gender">Enter your Gender</string>
+    <string name="opd">OPD</string>
+    <string name="date">Date</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="submit">Submit</string>
+    <string name="successfull">Successfull</string>
+    <string name="ok">OK</string>
+    <string name="time">Time</string>
+</resources>
